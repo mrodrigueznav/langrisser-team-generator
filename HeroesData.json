@@ -1,0 +1,659 @@
+{
+    "Heroes": [
+        {
+            "Name": "Aaron",
+            "Legion of Glory": "x"
+        },
+        {
+            "Name": "Aka",
+            "Legion of Glory": "x",
+            "Origins of Light": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Alfred",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Almeda",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "h"
+        },
+        {
+            "Name": "Altemuller",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Dark Reincarnation": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "t"
+        },
+        {
+            "Name": "Alustriel",
+            "Legion of Glory": "x",
+            "Origins of Light": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Angelica",
+            "Legion of Glory": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Angelina",
+            "Princess Alliance": "x",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Anna",
+            "Princess Alliance": "x",
+            "Empires Honor": "x"
+        },
+        {
+            "Name": "Ares",
+            "Protagonists": "x",
+            "Empires Honor": "x",
+            "Langrisser Reincarnation": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Arianrhod"
+        },
+        {
+            "Name": "Ashram",
+            "Strategic Masters": "x",
+            "Dark Reincarnation": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Bernhardt",
+            "Empires Honor": "x",
+            "Dark Reincarnation": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Betty",
+            "Legion of Glory": "x",
+            "Empires Honor": "x",
+            "Dark Reincarnation": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "t"
+        },
+        {
+            "Name": "Bozel",
+            "Dark Reincarnation": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Brenda",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Cherie",
+            "Legion of Glory": "x",
+            "Princess Alliance": "x",
+            "Meteor Strike": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Chris",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Princess Alliance": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Clarett",
+            "Princess Alliance": "x",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Deedlit",
+            "Origins of Light": "x",
+            "Princess Alliance": "x",
+            "Heroes of time": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Dieharte",
+            "Protagonists": "x",
+            "Origins of Light": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Dios",
+            "Origins of Light": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Egbert",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Dark Reincarnation": "x"
+        },
+        {
+            "Name": "Elwin",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Empires Honor": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Emerick",
+            "Empires Honor": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Emilia",
+            "Princess Alliance": "x",
+            "Empires Honor": "x"
+        },
+        {
+            "Name": "Estelle",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Feraquea",
+            "Dark Reincarnation": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Freya",
+            "Origins of Light": "x",
+            "Princess Alliance": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "t"
+        },
+        {
+            "Name": "Gerold & Layla",
+            "Origins of Light": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Gizarof",
+            "Dark Reincarnation": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Grenier",
+            "Legion of Glory": "x"
+        },
+        {
+            "Name": "Hein",
+            "Legion of Glory": "x",
+            "Empires Honor": "x"
+        },
+        {
+            "Name": "Helena"
+        },
+        {
+            "Name": "Hiei",
+            "Origins of Light": "x",
+            "Meteor Strike": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Ilucia",
+            "Legion of Glory": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Imelda",
+            "Empires Honor": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Iris",
+            "Princess Alliance": "x",
+            "Empires Honor": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Jessica",
+            "Legion of Glory": "x",
+            "Origins of Light": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Joshua",
+            "Princess Alliance": "x",
+            "Meteor Strike": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Jugler",
+            "Origins of Light": "x",
+            "Meteor Strike": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "t"
+        },
+        {
+            "Name": "Kazuma Kuwabara",
+            "Legion of Glory": "x",
+            "Meteor Strike": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Keith",
+            "Legion of Glory": "x"
+        },
+        {
+            "Name": "Kirikaze",
+            "Origins of Light": "x",
+            "Meteor Strike": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Klose",
+            "Princess Alliance": "x",
+            "Yeless Legends": "x",
+            "Heroes of time": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "h"
+        },
+        {
+            "Name": "Knight of Mystery",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Kurama",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Laird",
+            "Empires Honor": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Lambda",
+            "Protagonists": "x",
+            "Yeless Legends": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Lana",
+            "Princess Alliance": "x",
+            "Dark Reincarnation": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Lance",
+            "Legion of Glory": "x",
+            "Empires Honor": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Landius",
+            "Protagonists": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "t"
+        },
+        {
+            "Name": "Lanford",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Ledin",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "t"
+        },
+        {
+            "Name": "Leon",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Leonhardt",
+            "Origins of Light": "x",
+            "Empires Honor": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Lester",
+            "Legion of Glory": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Leticia",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Lewin",
+            "Origins of Light": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "d"
+        },
+        {
+            "Name": "Liana",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Princess Alliance": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "h"
+        },
+        {
+            "Name": "Licorice"
+        },
+        {
+            "Name": "Liffany",
+            "Origins of Light": "x",
+            "Princess Alliance": "x"
+        },
+        {
+            "Name": "Listell",
+            "Dark Reincarnation": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Luna",
+            "Origins of Light": "x",
+            "Princess Alliance": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Maiya",
+            "Empires Honor": "x",
+            "Langrisser Reincarnation": "x"
+        },
+        {
+            "Name": "Matthew",
+            "Protagonists": "x",
+            "Legion of Glory": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Narm",
+            "Legion of Glory": "x",
+            "Princess Alliance": "x",
+            "Meteor Strike": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Noemi"
+        },
+        {
+            "Name": "Oliver",
+            "Legion of Glory": "x",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Olivier",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Heroes of time": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Omega",
+            "Dark Reincarnation": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Parn",
+            "Protagonists": "x",
+            "Origins of Light": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Pierre",
+            "Origins of Light": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Pirotess",
+            "Dark Reincarnation": "x",
+            "Meteor Strike": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Rachel",
+            "Protagonists": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Rainforce",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Rean"
+        },
+        {
+            "Name": "Renata"
+        },
+        {
+            "Name": "Renne",
+            "Dark Reincarnation": "x",
+            "Yeless Legends": "x",
+            "Heroes of time": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Rohga",
+            "Empires Honor": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Rozelia"
+        },
+        {
+            "Name": "Sage of the Trees"
+        },
+        {
+            "Name": "Sakura Shinguji",
+            "Protagonists": "x",
+            "Empires Honor": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Scott",
+            "Legion of Glory": "x",
+            "Strategic Masters": "x"
+        },
+        {
+            "Name": "Serena",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Shelfaniel",
+            "Princess Alliance": "x",
+            "Yeless Legends": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Shilinka",
+            "Meteor Strike": "x",
+            "Mythical Realm": "x"
+        },
+        {
+            "Name": "Sigma",
+            "Protagonists": "x",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Silver Wolf",
+            "Origins of Light": "x",
+            "Meteor Strike": "x"
+        },
+        {
+            "Name": "Sonya",
+            "Princess Alliance": "x",
+            "Empires Honor": "x",
+            "Dark Reincarnation": "x"
+        },
+        {
+            "Name": "Sophia",
+            "Origins of Light": "x",
+            "Princess Alliance": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "h"
+        },
+        {
+            "Name": "Sumire Kanzaki",
+            "Princess Alliance": "x",
+            "Empires Honor": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Tiaris",
+            "Protagonists": "x",
+            "Origins of Light": "x",
+            "Princess Alliance": "x",
+            "Built": "x",
+            "Rank": "5",
+            "Rol": "h"
+        },
+        {
+            "Name": "Toguro Brothers",
+            "Empires Honor": "x",
+            "Dark Reincarnation": "x",
+            "Heroes of time": "x"
+        },
+        {
+            "Name": "Vargas",
+            "Empires Honor": "x",
+            "Strategic Masters": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "t"
+        },
+        {
+            "Name": "Varna",
+            "Empires Honor": "x",
+            "Dark Reincarnation": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Virash",
+            "Meteor Strike": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Wiler",
+            "Strategic Masters": "x",
+            "Yeless Legends": "x"
+        },
+        {
+            "Name": "Young Jessica",
+            "Legion of Glory": "x",
+            "Origins of Light": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Yulia",
+            "Legion of Glory": "x",
+            "Princess Alliance": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "4",
+            "Rol": "d"
+        },
+        {
+            "Name": "Yusuke Urameshi",
+            "Protagonists": "x",
+            "Mythical Realm": "x",
+            "Heroes of time": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        },
+        {
+            "Name": "Zerida",
+            "Dark Reincarnation": "x",
+            "Meteor Strike": "x",
+            "Mythical Realm": "x",
+            "Built": "x",
+            "Rank": "3",
+            "Rol": "d"
+        }
+    ]
+}
